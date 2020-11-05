@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.0.3](https://www.github.com/nodeshift/opossum/compare/v5.0.2...v5.0.3) (2020-11-05)
+
+
+### Bug Fixes
+
+* upgrade multiple dependencies with Snyk ([#485](https://www.github.com/nodeshift/opossum/issues/485)) ([efe299e](https://www.github.com/nodeshift/opossum/commit/efe299e1d1cc0311a5ea406dad659ccd5d105754))
+
 ### [5.0.2](https://www.github.com/nodeshift/opossum/compare/v5.0.1...v5.0.2) (2020-10-14)
 
 
